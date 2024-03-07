@@ -1,0 +1,4 @@
+
+*.pdb
+*.exe
+/IL2CPP_PWN/x64
